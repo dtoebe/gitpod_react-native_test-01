@@ -1,4 +1,4 @@
-FROM gitpod/gitpod/workspace-full-vnc:latest
+FROM gitpod/workspace-full-vnc:latest
 
 USER gitpod
 
